@@ -4,5 +4,10 @@ body {
 
 p {
   color: #FDFFFC;
+  font-family: arial;
+}
+
+h3 {
+  color: #FF9F1C;
   font-family: verdana;
 }
